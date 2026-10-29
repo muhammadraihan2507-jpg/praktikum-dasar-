@@ -1,7 +1,7 @@
 # Adventure Camp – Sistem Penyewaan Peralatan Camping
 ## Identitas
 - Nama: M. Raihan Setyawan
-- NIM: C 2583207048
+- NIM: C 2583207024
 - Proyek: Adventure Camp
 ## Deskripsi
 Adventure Camp adalah program penyewaan peralatan camping berbasis terminal yang dibuat menggunakan bahasa pemrograman C. Program ini membantu pengguna melihat daftar peralatan, melakukan transaksi penyewaan, menghitung biaya sewa dan diskon secara otomatis, menampilkan struk pembayaran, serta melihat riwayat transaksi dan total pendapatan.
